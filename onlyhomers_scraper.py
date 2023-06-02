@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 url = "https://www.onlyhomers.com/database"
 path_to_chromedriver = 'PATH TO CHROMEDRIVER.EXE'
 
-#Commented lines below run scraper in headless mode, doesn't work and not sure why
+# Commented lines below run scraper in headless mode, doesn't work and not sure why
 
 # options = webdriver.ChromeOptions()
 # options.add_argument("--headless=new")
