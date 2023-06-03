@@ -2,7 +2,7 @@
 Analysis of MLB data
 
 ## Files
-* onlyhomers_scraper.py 
+* [onlyhomers_scraper.py](onlyhomers_scraper.py)
   * This is a quick and ugly web scraper I made to scrape www.onlyhomers.com/database. 
     I wanted data on all homeruns hit in major league baseball, and I found this website that had a database of all home runs since 2020. 
     So I built this web scraper to download all the data off the website. This was my first time creating a web scraper for dynamically loaded content, so it has a bunch of problems. 
