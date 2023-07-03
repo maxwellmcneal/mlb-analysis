@@ -9,7 +9,7 @@ Analysis of MLB data
     It throws errors when run in headless mode, you have to manually change the code to scrape different years, and it may fail depending on the ads loaded on the page. 
     However, I made it in an afternoon and it worked just enough for the task I needed it for.
     
-    This was made before I learned about the statcast search function at baseballsavant.mlb.com/statcast_search. Statcast search is a better source for this information. 
+    This was made before I learned about the statcast search function at https://baseballsavant.mlb.com/statcast_search. Statcast search is a better source for this information. 
     For the data I am concerned with, specifically exit velocity and launch angle, statcast goes back to 2015, instead of 2020 on onlyhomers. 
     For the rest of the project, I will be using data obtained through statcast search. 
     However, this web scraper still has some value. onlyhomers updates in real time as more homeruns are hit, as opposed to statcast, which I believe updates overnight each day.
